@@ -28,3 +28,6 @@ pip install --upgrade pip
 pip install -r envs/xxxxx/requirements.txt
 ```
 
+## Execução
+
+Com o ambiente configurado, é possível executar os experimentos com os argumentos desejados. Exemplos de execuções encontram-se nos arquivos *shell* na pasta /exemplos/.
